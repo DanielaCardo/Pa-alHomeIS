@@ -82,9 +82,9 @@
             comboBox1.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
             comboBox1.FormattingEnabled = true;
             comboBox1.Items.AddRange(new object[] { "Formula - 001" });
-            comboBox1.Location = new Point(301, 34);
+            comboBox1.Location = new Point(348, 34);
             comboBox1.Name = "comboBox1";
-            comboBox1.Size = new Size(501, 29);
+            comboBox1.Size = new Size(454, 29);
             comboBox1.TabIndex = 2;
             // 
             // groupBox1
@@ -100,9 +100,9 @@
             // textBox1
             // 
             textBox1.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point);
-            textBox1.Location = new Point(301, 34);
+            textBox1.Location = new Point(348, 34);
             textBox1.Name = "textBox1";
-            textBox1.Size = new Size(501, 29);
+            textBox1.Size = new Size(454, 29);
             textBox1.TabIndex = 2;
             // 
             // label1
